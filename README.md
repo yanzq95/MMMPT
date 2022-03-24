@@ -1,1 +1,1 @@
-# M$^3$PT
+# M<sup>3<sup>PT
