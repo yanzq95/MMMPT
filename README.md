@@ -1,1 +1,1 @@
-# M<sup>3<sup>PT
+# M<sup>3PT
