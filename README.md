@@ -1,2 +1,2 @@
 # M<sup>3</sup>PT
-Submission to ECCV-2022, code to be released soon...
+Submission to ECCV-2022.
